@@ -11,6 +11,7 @@ module.exports = function(grunt) {
           curly: true,
           eqeqeq: true,
           eqnull: true,
+          esversion: 6,
           globalstrict: true,
           node: true,
           camelcase: true,
